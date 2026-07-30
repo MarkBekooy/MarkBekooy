@@ -7,7 +7,6 @@ I'm a solo founder and indie developer building AI-powered SaaS products. I love
 ## What I'm Building
 
 **[Scrum Automation](https://www.scrumautomation.com/)** - Give your sprint objective, backlog context and team capacity and the tool creates reviewable PBIs, user stories, tasks and acceptance criteria.
-**[TypoSnap](https://typosnap.com)** - An AI-powered tool for catching spelling and grammar mistakes. Built because I genuinely can't stand typos (and neither should you).
 
 I'm currently expanding Scrum Automations's feature set and exploring new AI-driven products in the same space.
 
